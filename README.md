@@ -27,7 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrsshh&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
 
 ## 🏆 GitHub Trophies
 
