@@ -23,9 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![Adharsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adharsh-Kumar-Singh&show_icons=true&theme=radical)
+![Adharsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrsshh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adharsh-Kumar-Singh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrsshh&layout=compact&theme=radical)
 
 ---
 
