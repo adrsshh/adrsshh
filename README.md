@@ -27,7 +27,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrsshh&layout=compact&theme=radical)
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=adrsshh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=adrsshh&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 
 
 
