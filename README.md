@@ -29,7 +29,10 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=adrsshh&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adrsshh&theme=onedark&no-frame=true)
+
 
 
 
